@@ -1,0 +1,29 @@
+{
+  "name": "uddf2js",
+  "version": "0.0.1",
+  "description": "Convert UDDF to an easy to use JS format and handle unit conversions",
+  "main": "src/uddf.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "types": "src/uddf.d.ts",
+  "keywords": [
+    "uddf",
+    "scuba",
+    "diving",
+    "xml",
+    "parser",
+    "unit conversion",
+    "divelog",
+    "dive",
+    "dive computer"
+  ],
+  "author": "TheMrAnderson",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  },
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  }
+}

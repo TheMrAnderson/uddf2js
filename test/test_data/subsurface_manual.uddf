@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uddf xmlns="http://www.streit.cc/uddf/3.2/" version="3.2.0">
+  <generator>
+    <name>Subsurface Divelog</name>
+    <manufacturer id="subsurface">
+      <name>Subsurface Team</name>
+      <contact>
+        <homepage>http://subsurface-divelog.org/</homepage>
+      </contact>
+    </manufacturer>
+    <version>3</version>
+  </generator>
+  <mediadata/>
+  <diver>
+    <owner id="owner">
+      <personal>
+        <firstname/>
+        <lastname/>
+      </personal>
+      <equipment/>
+    </owner>
+    <buddy id="id28">
+      <personal>
+        <firstname>Buddy</firstname>
+        <lastname>One</lastname>
+      </personal>
+    </buddy>
+    <buddy id="id26">
+      <personal>
+        <firstname>Buddy</firstname>
+        <lastname>Two</lastname>
+      </personal>
+    </buddy>
+    <buddy id="id27">
+      <personal>
+        <firstname>Buddy</firstname>
+        <lastname>Three</lastname>
+      </personal>
+    </buddy>
+    <buddy id="id16">
+      <personal>
+        <firstname>Buddy</firstname>
+        <lastname>Four</lastname>
+      </personal>
+    </buddy>
+  </diver>
+  <divesite>
+    <divebase id="allbase">
+      <name>Subsurface Divebase</name>
+    </divebase>
+    <site id="  244a94">
+      <name>Pennyroyal Quarry</name>
+      <geography>
+        <location>Pennyroyal Quarry</location>
+        <latitude>36.861111</latitude>
+        <longitude>-87.467972</longitude>
+      </geography>
+    </site>
+    <site id=" 95dc576">
+      <name>Martha's Quarry</name>
+      <geography>
+        <location>Martha's Quarry</location>
+        <latitude>36.222500</latitude>
+        <longitude>-86.440528</longitude>
+      </geography>
+    </site>
+    <site id="d03250c6">
+      <name>St Kitts &amp; Nevis - St. Peters Reef</name>
+      <geography>
+        <location>St Kitts &amp; Nevis - St. Peters Reef</location>
+        <latitude>17.277573</latitude>
+        <longitude>-62.696759</longitude>
+      </geography>
+    </site>
+    <site id="ff9fd19c">
+      <name>St Kitts &amp; Nevis River Taw Wreck</name>
+      <geography>
+        <location>St Kitts &amp; Nevis River Taw Wreck</location>
+        <latitude/>
+        <longitude/>
+      </geography>
+    </site>
+    <site id="ff9fd19d">
+      <name>St Kitts &amp; Nevis - River Taw Wreck</name>
+      <geography>
+        <location>St Kitts &amp; Nevis - River Taw Wreck</location>
+        <latitude>17.281030</latitude>
+        <longitude>-62.697390</longitude>
+      </geography>
+      <sitedata>
+        <notes>Wreck of the River Taw is a boat accessible salt water dive site, located in Saint Kitts And Nevis. This dive site has an average rating of 5.00 out of 5 from 3 scuba divers. The maximum depth is 41-50ft/12-15m.
+
+The River Taw Wreck Dive Site, St Kitts is located just offshore of Frigate Bay. It began sinking in Basseterre harbour in 1981 and was towed to its current resting place. An Island Cargo Ship, it was originally 144 ft in length until Hurricane Hugo split it into 2 sections in 1989. Hurricane Omar passed by last year and did a little more "rearranging". The wreck now has its bow and stern sections about 50 feet apart
+
+https://www.divebuddy.com/divesite/4673/wreck-river-taw-saint-kitts-nevis/ </notes>
+      </sitedata>
+    </site>
+  </divesite>
+  <gasdefinitions>
+    <mix id="mix(21/0)">
+      <name>air</name>
+      <o2>0.21</o2>
+      <he>0.00</he>
+    </mix>
+    <mix id="mix(32/0)">
+      <name>EANx 32</name>
+      <o2>0.32</o2>
+      <he>0.00</he>
+    </mix>
+  </gasdefinitions>
+  <profiledata>
+    <repetitiongroup id="id46">
+      <dive id="id46">
+        <informationbeforedive>
+          <link ref="id16"/>
+          <link ref="  244a94"/>
+          <divenumber>1</divenumber>
+          <datetime>2019-08-24T09:30:29</datetime>
+          <equipmentused>
+            <leadquantity>5.443</leadquantity>
+          </equipmentused>
+        </informationbeforedive>
+        <tankdata>
+          <link ref="mix(21/0)"/>
+          <tankvolume>11.094</tankvolume>
+          <tankpressurebegin>19305300</tankpressurebegin>
+          <tankpressureend>12410600</tankpressureend>
+        </tankdata>
+        <samples>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>0</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>5.79</depth>
+            <divetime>38</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>5.79</depth>
+            <divetime>1882</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>1920</divetime>
+          </waypoint>
+        </samples>
+        <informationafterdive>
+          <greatestdepth>5.791</greatestdepth>
+          <averagedepth>5.676</averagedepth>
+          <diveduration>1920</diveduration>
+          <notes>
+            <para>Mask clearing
+BC Removal
+Share air horizontal
+No mask swim
+450 yard snorkel to start
+Bouyancy skills</para>
+          </notes>
+        </informationafterdive>
+      </dive>
+    </repetitiongroup>
+    <repetitiongroup id="id47">
+      <dive id="id47">
+        <informationbeforedive>
+          <link ref="id16"/>
+          <link ref="  244a94"/>
+          <divenumber>2</divenumber>
+          <datetime>2019-08-24T11:42:14</datetime>
+          <equipmentused>
+            <leadquantity>5.443</leadquantity>
+          </equipmentused>
+        </informationbeforedive>
+        <tankdata>
+          <link ref="mix(21/0)"/>
+          <tankvolume>11.094</tankvolume>
+          <tankpressurebegin>19305300</tankpressurebegin>
+          <tankpressureend>12410600</tankpressureend>
+        </tankdata>
+        <samples>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>0</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>4.57</depth>
+            <divetime>30</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>4.57</depth>
+            <divetime>2010</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>2040</divetime>
+          </waypoint>
+        </samples>
+        <informationafterdive>
+          <greatestdepth>4.572</greatestdepth>
+          <averagedepth>4.505</averagedepth>
+          <diveduration>2040</diveduration>
+          <notes>
+            <para>Unconcious diver
+Share air to surface
+Recipricoal compass course
+Bouyancy skills</para>
+          </notes>
+        </informationafterdive>
+      </dive>
+    </repetitiongroup>
+    <repetitiongroup id="id48">
+      <dive id="id48">
+        <informationbeforedive>
+          <link ref="id16"/>
+          <link ref="  244a94"/>
+          <divenumber>3</divenumber>
+          <datetime>2019-08-25T07:25:54</datetime>
+          <equipmentused>
+            <leadquantity>5.443</leadquantity>
+          </equipmentused>
+        </informationbeforedive>
+        <tankdata>
+          <link ref="mix(21/0)"/>
+          <tankvolume>11.094</tankvolume>
+          <tankpressurebegin>19305300</tankpressurebegin>
+        </tankdata>
+        <samples>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>0</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>10.36</depth>
+            <divetime>68</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>10.36</depth>
+            <divetime>1372</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>5</depth>
+            <divetime>1407</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>5</depth>
+            <divetime>1587</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>1620</divetime>
+          </waypoint>
+        </samples>
+        <informationafterdive>
+          <greatestdepth>10.363</greatestdepth>
+          <averagedepth>9.332</averagedepth>
+          <diveduration>1620</diveduration>
+          <notes>
+            <para>Bouyancy control navigating along wall
+Emergency swimming ascent from 30'
+Navigated back to safety stop</para>
+          </notes>
+        </informationafterdive>
+      </dive>
+    </repetitiongroup>
+    <repetitiongroup id="id49">
+      <dive id="id49">
+        <informationbeforedive>
+          <link ref="id16"/>
+          <link ref="  244a94"/>
+          <divenumber>4</divenumber>
+          <datetime>2019-08-25T08:30:40</datetime>
+          <equipmentused>
+            <leadquantity>5.443</leadquantity>
+          </equipmentused>
+        </informationbeforedive>
+        <tankdata>
+          <link ref="mix(21/0)"/>
+          <tankvolume>11.094</tankvolume>
+          <tankpressurebegin>19305300</tankpressurebegin>
+          <tankpressureend>6894800</tankpressureend>
+        </tankdata>
+        <samples>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>0</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>10.36</depth>
+            <divetime>68</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>10.36</depth>
+            <divetime>1972</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>5</depth>
+            <divetime>2007</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>5</depth>
+            <divetime>2187</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>2220</divetime>
+          </waypoint>
+        </samples>
+        <informationafterdive>
+          <greatestdepth>10.363</greatestdepth>
+          <averagedepth>9.61</averagedepth>
+          <diveduration>2220</diveduration>
+          <notes>
+            <para>Toured around at 15'-25'
+Bouyancy</para>
+          </notes>
+        </informationafterdive>
+      </dive>
+    </repetitiongroup>
+    <repetitiongroup id="id50">
+      <dive id="id50">
+        <informationbeforedive>
+          <link ref="id16"/>
+          <link ref="  244a94"/>
+          <divenumber>5</divenumber>
+          <datetime>2019-09-21T08:00:31</datetime>
+          <airtemperature>299.82</airtemperature>
+          <equipmentused>
+            <leadquantity>7.258</leadquantity>
+          </equipmentused>
+        </informationbeforedive>
+        <tankdata>
+          <link ref="mix(21/0)"/>
+          <tankvolume>11.094</tankvolume>
+          <tankpressurebegin>19305300</tankpressurebegin>
+          <tankpressureend>6550000</tankpressureend>
+        </tankdata>
+        <samples>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>0</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>9.449999999999999</depth>
+            <divetime>62</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>9.449999999999999</depth>
+            <divetime>2578</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>2640</divetime>
+          </waypoint>
+        </samples>
+        <informationafterdive>
+          <greatestdepth>9.449</greatestdepth>
+          <averagedepth>9.227</averagedepth>
+          <diveduration>2640</diveduration>
+          <notes>
+            <para>Compass practice
+Depth control
+Explore - Airplane, RV, Bus, etc.</para>
+          </notes>
+        </informationafterdive>
+      </dive>
+    </repetitiongroup>
+    <repetitiongroup id="id51">
+      <dive id="id51">
+        <informationbeforedive>
+          <link ref="id16"/>
+          <link ref="  244a94"/>
+          <divenumber>6</divenumber>
+          <datetime>2019-09-21T10:34:38</datetime>
+          <airtemperature>299.82</airtemperature>
+          <equipmentused>
+            <leadquantity>7.258</leadquantity>
+          </equipmentused>
+        </informationbeforedive>
+        <tankdata>
+          <link ref="mix(21/0)"/>
+          <tankvolume>11.094</tankvolume>
+          <tankpressurebegin>20684300</tankpressurebegin>
+          <tankpressureend>4481600</tankpressureend>
+        </tankdata>
+        <samples>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>0</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>11.28</depth>
+            <divetime>74</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>11.28</depth>
+            <divetime>2626</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>5</depth>
+            <divetime>2667</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>5</depth>
+            <divetime>2847</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>2880</divetime>
+          </waypoint>
+        </samples>
+        <informationafterdive>
+          <greatestdepth>11.278</greatestdepth>
+          <averagedepth>10.595</averagedepth>
+          <diveduration>2880</diveduration>
+          <notes>
+            <para>Explore
+Shark
+Culvert</para>
+          </notes>
+        </informationafterdive>
+      </dive>
+    </repetitiongroup>
+    <repetitiongroup id="id52">
+      <dive id="id52">
+        <informationbeforedive>
+          <link ref="id16"/>
+          <link ref="  244a94"/>
+          <divenumber>7</divenumber>
+          <datetime>2019-09-22T08:00:23</datetime>
+          <equipmentused>
+            <leadquantity>0</leadquantity>
+          </equipmentused>
+        </informationbeforedive>
+        <tankdata>
+          <link ref="mix(21/0)"/>
+          <tankvolume>11.094</tankvolume>
+          <tankpressurebegin>19305300</tankpressurebegin>
+          <tankpressureend>3447400</tankpressureend>
+        </tankdata>
+        <samples>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>0</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>14.02</depth>
+            <divetime>92</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>14.02</depth>
+            <divetime>2128</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>5</depth>
+            <divetime>2187</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>5</depth>
+            <divetime>2367</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>2400</divetime>
+          </waypoint>
+        </samples>
+        <informationafterdive>
+          <greatestdepth>14.021</greatestdepth>
+          <averagedepth>12.806</averagedepth>
+          <diveduration>2400</diveduration>
+          <notes>
+            <para/>
+          </notes>
+        </informationafterdive>
+      </dive>
+    </repetitiongroup>
+    <repetitiongroup id="id53">
+      <dive id="id53">
+        <informationbeforedive>
+          <link ref="id16"/>
+          <link ref="  244a94"/>
+          <divenumber>8</divenumber>
+          <datetime>2019-09-22T10:20:44</datetime>
+          <equipmentused>
+            <leadquantity>6.35</leadquantity>
+          </equipmentused>
+        </informationbeforedive>
+        <tankdata>
+          <link ref="mix(21/0)"/>
+          <tankvolume>11.094</tankvolume>
+          <tankpressurebegin>19305300</tankpressurebegin>
+          <tankpressureend>1723700</tankpressureend>
+        </tankdata>
+        <samples>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>0</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>10.97</depth>
+            <divetime>72</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>10.97</depth>
+            <divetime>2628</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>5</depth>
+            <divetime>2667</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>5</depth>
+            <divetime>2847</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>2880</divetime>
+          </waypoint>
+        </samples>
+        <informationafterdive>
+          <greatestdepth>10.973</greatestdepth>
+          <averagedepth>10.325</averagedepth>
+          <diveduration>2880</diveduration>
+          <notes>
+            <para/>
+          </notes>
+        </informationafterdive>
+      </dive>
+    </repetitiongroup>
+    <repetitiongroup id="id54">
+      <dive id="id54">
+        <informationbeforedive>
+          <link ref="id16"/>
+          <link ref="ff9fd19d"/>
+          <divenumber>9</divenumber>
+          <datetime>2019-10-09T10:32:34</datetime>
+          <equipmentused>
+            <leadquantity>7.258</leadquantity>
+          </equipmentused>
+        </informationbeforedive>
+        <tankdata>
+          <link ref="mix(21/0)"/>
+          <tankvolume>11.094</tankvolume>
+          <tankpressurebegin>20684300</tankpressurebegin>
+          <tankpressureend>6894800</tankpressureend>
+        </tankdata>
+        <samples>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>0</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>12.8</depth>
+            <divetime>84</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>12.8</depth>
+            <divetime>2736</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>5</depth>
+            <divetime>2787</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>5</depth>
+            <divetime>2967</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>3000</divetime>
+          </waypoint>
+        </samples>
+        <informationafterdive>
+          <greatestdepth>12.802</greatestdepth>
+          <averagedepth>11.975</averagedepth>
+          <diveduration>3000</diveduration>
+          <lowesttemperature>299.82</lowesttemperature>
+          <notes>
+            <para>Freighter wreck, bus frame, bulldozer frame, turtle, lots of fish</para>
+          </notes>
+          <rating>
+            <ratingvalue>10</ratingvalue>
+          </rating>
+          <visibility>15</visibility>
+        </informationafterdive>
+      </dive>
+    </repetitiongroup>
+    <repetitiongroup id="id55">
+      <dive id="id55">
+        <informationbeforedive>
+          <link ref="id16"/>
+          <link ref="d03250c6"/>
+          <divenumber>10</divenumber>
+          <datetime>2019-10-09T12:22:42</datetime>
+          <equipmentused>
+            <leadquantity>7.258</leadquantity>
+          </equipmentused>
+        </informationbeforedive>
+        <tankdata>
+          <link ref="mix(21/0)"/>
+          <tankvolume>11.094</tankvolume>
+          <tankpressurebegin>19305300</tankpressurebegin>
+          <tankpressureend>4136900</tankpressureend>
+        </tankdata>
+        <samples>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>0</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>14.02</depth>
+            <divetime>92</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>14.02</depth>
+            <divetime>2548</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>5</depth>
+            <divetime>2607</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>5</depth>
+            <divetime>2787</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>2820</divetime>
+          </waypoint>
+        </samples>
+        <informationafterdive>
+          <greatestdepth>14.021</greatestdepth>
+          <averagedepth>12.987</averagedepth>
+          <diveduration>2820</diveduration>
+          <lowesttemperature>299.82</lowesttemperature>
+          <notes>
+            <para>Reef, lots of fish, black tipped reef sharks.  DM speared lionfish and fed sharks</para>
+          </notes>
+          <rating>
+            <ratingvalue>10</ratingvalue>
+          </rating>
+          <visibility>15</visibility>
+        </informationafterdive>
+      </dive>
+    </repetitiongroup>
+    <repetitiongroup id="id56">
+      <dive id="id56">
+        <informationbeforedive>
+          <link ref="id26"/>
+          <link ref=" 95dc576"/>
+          <divenumber>11</divenumber>
+          <datetime>2020-09-26T11:19:48</datetime>
+          <equipmentused>
+            <leadquantity>7.258</leadquantity>
+          </equipmentused>
+        </informationbeforedive>
+        <tankdata>
+          <link ref="mix(21/0)"/>
+          <tankvolume>11.094</tankvolume>
+          <tankpressurebegin>20684300</tankpressurebegin>
+        </tankdata>
+        <samples>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>0</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>3.96</depth>
+            <divetime>26</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>3.96</depth>
+            <divetime>874</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>900</divetime>
+          </waypoint>
+        </samples>
+        <informationafterdive>
+          <greatestdepth>3.962</greatestdepth>
+          <averagedepth>3.848</averagedepth>
+          <diveduration>900</diveduration>
+          <notes>
+            <para>We worked on sharing air &amp; bouyancy.  The dive was ended early due to his sinuses.  Next time we will work on skills at the end of the dive.  The up and down seems to be what got to him.  This was his first dive with his new BC, reg &amp; wetsuit</para>
+          </notes>
+          <visibility>1</visibility>
+        </informationafterdive>
+      </dive>
+    </repetitiongroup>
+    <repetitiongroup id="id57">
+      <dive id="id57">
+        <informationbeforedive>
+          <link ref="id27"/>
+          <link ref="  244a94"/>
+          <divenumber>12</divenumber>
+          <datetime>2025-07-27T09:00:11</datetime>
+          <airtemperature>305.37</airtemperature>
+          <equipmentused>
+            <leadquantity>7.258</leadquantity>
+          </equipmentused>
+        </informationbeforedive>
+        <tankdata>
+          <link ref="mix(21/0)"/>
+          <tankvolume>11.094</tankvolume>
+          <tankpressurebegin>19305300</tankpressurebegin>
+          <tankpressureend>15168500</tankpressureend>
+        </tankdata>
+        <samples>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>0</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>12.19</depth>
+            <divetime>80</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>12.19</depth>
+            <divetime>940</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>5</depth>
+            <divetime>987</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>5</depth>
+            <divetime>1167</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>1200</divetime>
+          </waypoint>
+        </samples>
+        <informationafterdive>
+          <greatestdepth>12.192</greatestdepth>
+          <averagedepth>10.299</averagedepth>
+          <diveduration>1200</diveduration>
+          <lowesttemperature>299.82</lowesttemperature>
+          <notes>
+            <para>I was up and down constantly.  My weight is down to 212 so the old weights were too much</para>
+          </notes>
+        </informationafterdive>
+      </dive>
+    </repetitiongroup>
+    <repetitiongroup id="id58">
+      <dive id="id58">
+        <informationbeforedive>
+          <link ref="id28"/>
+          <link ref="  244a94"/>
+          <divenumber>13</divenumber>
+          <datetime>2025-07-27T11:27:01</datetime>
+          <airtemperature>305.37</airtemperature>
+          <equipmentused>
+            <leadquantity>2.722</leadquantity>
+          </equipmentused>
+        </informationbeforedive>
+        <tankdata>
+          <link ref="mix(21/0)"/>
+          <tankvolume>11.094</tankvolume>
+          <tankpressurebegin>19305300</tankpressurebegin>
+          <tankpressureend>8618400</tankpressureend>
+        </tankdata>
+        <samples>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>0</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>9.140000000000001</depth>
+            <divetime>60</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>9.140000000000001</depth>
+            <divetime>2340</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>2400</divetime>
+          </waypoint>
+        </samples>
+        <informationafterdive>
+          <greatestdepth>9.144</greatestdepth>
+          <averagedepth>8.915</averagedepth>
+          <diveduration>2400</diveduration>
+          <lowesttemperature>299.82</lowesttemperature>
+          <notes>
+            <para>Buddy dive as Jim led the class tour.  Last class for Dive Below :-(</para>
+          </notes>
+          <rating>
+            <ratingvalue>10</ratingvalue>
+          </rating>
+        </informationafterdive>
+      </dive>
+    </repetitiongroup>
+    <repetitiongroup id="id59">
+      <dive id="id59">
+        <informationbeforedive>
+          <link ref="id28"/>
+          <link ref="  244a94"/>
+          <divenumber>14</divenumber>
+          <datetime>2025-09-01T11:24:23</datetime>
+          <airtemperature>302.04</airtemperature>
+          <equipmentused>
+            <leadquantity>2.722</leadquantity>
+          </equipmentused>
+        </informationbeforedive>
+        <tankdata>
+          <link ref="mix(32/0)"/>
+          <tankvolume>11.094</tankvolume>
+          <tankpressurebegin>20298200</tankpressurebegin>
+          <tankpressureend>13610300</tankpressureend>
+        </tankdata>
+        <samples>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>0</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>5.79</depth>
+            <divetime>38</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>5.79</depth>
+            <divetime>2122</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>2160</divetime>
+          </waypoint>
+        </samples>
+        <informationafterdive>
+          <greatestdepth>5.791</greatestdepth>
+          <averagedepth>5.689</averagedepth>
+          <diveduration>2160</diveduration>
+          <lowesttemperature>299.82</lowesttemperature>
+          <notes>
+            <para>Nitrox dive #1
+Buddy had a cold yesterday and his left ear wouldn't clear.  Had to stay shallow.  The pirate ship got sunk today.
+First dive with my Suunto EON</para>
+          </notes>
+        </informationafterdive>
+      </dive>
+    </repetitiongroup>
+    <repetitiongroup id="id60">
+      <dive id="id60">
+        <informationbeforedive>
+          <link ref="id28"/>
+          <link ref="  244a94"/>
+          <divenumber>15</divenumber>
+          <datetime>2025-09-01T13:30:32</datetime>
+          <airtemperature>302.04</airtemperature>
+          <equipmentused>
+            <leadquantity>2.722</leadquantity>
+          </equipmentused>
+        </informationbeforedive>
+        <tankdata>
+          <link ref="mix(32/0)"/>
+          <tankvolume>11.094</tankvolume>
+          <tankpressurebegin>13706800</tankpressurebegin>
+          <tankpressureend>7625600</tankpressureend>
+        </tankdata>
+        <samples>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>0</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>4.57</depth>
+            <divetime>30</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>4.57</depth>
+            <divetime>2190</divetime>
+          </waypoint>
+          <waypoint>
+            <depth>0</depth>
+            <divetime>2220</divetime>
+          </waypoint>
+        </samples>
+        <informationafterdive>
+          <greatestdepth>4.572</greatestdepth>
+          <averagedepth>4.51</averagedepth>
+          <diveduration>2220</diveduration>
+          <lowesttemperature>299.82</lowesttemperature>
+          <notes>
+            <para>Nitrox dive #2</para>
+          </notes>
+        </informationafterdive>
+      </dive>
+    </repetitiongroup>
+  </profiledata>
+  <divetrip/>
+</uddf>

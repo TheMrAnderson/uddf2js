@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uddf>
+  <diver>
+    <owners>
+      <owner>
+        <name>Test Diver</name>
+      </owner>
+    </owners>
+  </diver>
+  <profiledata>
+    <repetitiongroup>
+      <dive>
+        <samples>
+          <waypoint>
+            <divetime>0</divetime>
+            <temperature>293.15</temperature>
+            <tankVolume>0.012</tankVolume>
+            <depth>10</depth>
+          </waypoint>
+          <waypoint>
+            <divetime>60</divetime>
+            <temperature>295.15</temperature>
+            <tankVolume>0.011</tankVolume>
+            <depth>15</depth>
+          </waypoint>
+        </samples>
+      </dive>
+    </repetitiongroup>
+  </profiledata>
+</uddf>
