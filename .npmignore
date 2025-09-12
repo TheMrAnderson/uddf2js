@@ -1,1 +1,10 @@
-node_modules/ test/ *.log *.tgz .DS_Store .vscode/ .env coverage/ .idea/ *.iml
+node_modules/
+test/
+*.log
+*.tgz
+.DS_Store
+.vscode/
+.env
+coverage/
+.idea/
+*.iml
